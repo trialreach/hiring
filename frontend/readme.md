@@ -5,6 +5,6 @@
 ## [Markup](./markup)
 Exercise assessing a candidate’s approach to writing markup
 
-## [UI Developer](./ui-developer)
+## [UI development](./ui-development)
 Exercise assessing a candidate’s proficiency with building UI components and design systems
 
